@@ -1,16 +1,20 @@
-## Hi there 👋
+Hey there 👋
 
-<!--
-**AdiCodz/AdiCodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a design-minded software engineer who enjoys building clean, meaningful things.
 
-Here are some ideas to get you started:
+I focus on problem-solving, writing clear code, and turning ideas into well-structured solutions.
+This repo is a place for small projects, experiments, and things I’m actively working on — all built from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tools & Focus
+- JavaScript & Python  
+- Software design & problem-solving  
+- Clean, maintainable code  
+
+---
+
+### A Bit About Me
+- I enjoy clean design and simplicity  
+- I turn real-life problems into practical, well-designed solutions through code.  
+- Always learning, always improving
