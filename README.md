@@ -1,6 +1,6 @@
 Hey there 👋
 
-I’m a design-minded software engineer who enjoys building clean, meaningful things.
+I’m a software engineering student aspiring to become a professional engineer, focused on building clean, meaningful projects.
 
 I focus on problem-solving, writing clear code, and turning ideas into well-structured solutions.
 This repo is a place for small projects, experiments, and things I’m actively working on — all built from scratch.
