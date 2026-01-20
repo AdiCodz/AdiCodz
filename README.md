@@ -8,7 +8,7 @@ This repo is a place for small projects, experiments, and things I’m actively 
 ---
 
 ### Tools & Focus
-- JavaScript & Python  
+- Java, Python, HTML & CSS  
 - Software design & problem-solving  
 - Clean, maintainable code  
 
